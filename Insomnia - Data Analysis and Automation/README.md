@@ -1,3 +1,5 @@
+![alt text](https://tse2.mm.bing.net/th?id=OIP.sWCvltMZF_s3mjA5sL-RdgHaE8&pid=Api&P=0&h=220)
+
 # Insomnia Data Analysis Project
 
 This project aims to analyze sleep data related to insomnia. The data is processed from images, using Python scripts to extract relevant information and generate insights.
