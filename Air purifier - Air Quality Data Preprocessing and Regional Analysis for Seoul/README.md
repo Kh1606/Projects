@@ -1,4 +1,6 @@
 ### Air Quality Data Preprocessing and Regional Analysis for Seoul
+![alt text](https://github.com/user-attachments/assets/2a05c87e-a738-48c5-ac8b-0385ea88d068)
+
 
 ## Project Overview
 This project aims to handle and preprocess CSV files containing air quality data from Seoul, specifically focusing on:
