@@ -1,4 +1,5 @@
-![alt text](https://github.com/user-attachments/assets/32e51fae-0ef3-4188-8410-27ef9751ed4d)
+![alt text](https://github.com/user-attachments/assets/1552420c-1b15-4c0a-8f3e-00e5cff26ce5)
+
 
 # Insomnia Data Analysis Project
 
