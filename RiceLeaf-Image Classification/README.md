@@ -2,6 +2,8 @@
 
 This repository contains a project for classifying diseases in rice leaves using machine learning techniques, specifically leveraging PyTorch and the ResNet18 model. The notebook walks through dataset preparation, model training, and evaluation processes.
 
+All steps in one .ipynb file, because I use Jupyter Lab and I think its best tool for Deep Learning projects.
+
 ## Project Overview
 
 The goal of this project is to create a classifier that can accurately identify different diseases affecting rice leaves. The dataset used for training is sourced from Kaggle and contains multiple classes of rice leaf diseases.
@@ -36,4 +38,15 @@ bs = 14
 ```
 ### Model Training
 The model used for this project is ResNet18. This pre-trained model is leveraged for transfer learning to classify rice leaf diseases.
+```python
+import timm
+model = timm.create_model(model_name = "resnet18", pretrained = True, num_classes =8)
+model
 
+loss_fn = torch.nn.CrossEntropyLoss()
+optimizer = torch.optim.Adam(params = model.parameters(), lr = 3e-4)
+device = "cuda" if torch.cuda.is_available() else "cpu"
+epochs = 10
+model.to(device)
+```
+Result you can check on my .ipynb file. It has quite high accuracy level and loss level is low.
