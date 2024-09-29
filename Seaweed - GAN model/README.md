@@ -80,5 +80,3 @@ The project aims to generate realistic seaweed images. Check the saved images pe
 - The deep learning community for sharing knowledge on GANs and model-building techniques.
 
 ---
-
-Feel free to contribute or use this code for educational purposes!
