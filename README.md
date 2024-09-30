@@ -3,11 +3,16 @@ Hello! I'm Alex, an AI developer based in Seoul, South Korea. I specialize in im
 
 ## Skills
 - **Programming Languages**: Python
-- **AI and ML Frameworks**: TensorFlow, PyTorch
+- **AI and DL Frameworks**: TensorFlow, PyTorch
 - **Computer Vision and Data Processing**: OpenCV, Tesseract OCR
 - **Data Visualization**: Matplotlib, Seaborn
 - **End-to-End AI Pipeline**: Data collection, preprocessing, model training, and deployment
-- **Specialties**: Image classification, object detection, data automation, GANs
+- **Specialties**:
+  - **Object Detection**
+  - **Image Classification**
+  - **Semantic Segmentation**
+  - **Data Automation**
+  - **Generative Adversarial Networks (GANs)**
 
 ## Projects
 
