@@ -1,6 +1,6 @@
 ### Hi there 👋, Hello! Im Alex
 #### AI developer, Machine/Deep Learning
-![AI developer, Machine/Deep Learning](https://github.com/Kh1606/Projects/blob/main/alex.gif)
+![AI developer, Machine/Deep Learning](https://github.com/Kh1606/Projects/blob/main/Alex.gif)
 
 Im living in Seoul, South Korea. I specialize in image processing, data automation, and AI solutions for real-world challenges. My main tools are Python, TensorFlow, PyTorch, and OpenCV, and I love building models that transform data into valuable insights.
 
