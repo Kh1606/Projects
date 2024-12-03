@@ -1,18 +1,15 @@
-# Alex - AI Developer
-Hello! I'm Alex, an AI developer based in Seoul, South Korea. I specialize in image processing, data automation, and AI solutions for real-world challenges. My main tools are Python, TensorFlow, PyTorch, and OpenCV, and I love building models that transform data into valuable insights.
+### Hi there 👋, Hello! Im Alex
+#### AI developer, Machine/Deep Learning
+![AI developer, Machine/Deep Learning](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-## Skills
-- **Programming Languages**: Python
-- **AI and DL Frameworks**: TensorFlow, PyTorch
-- **Computer Vision and Data Processing**: OpenCV, Tesseract OCR
-- **Data Visualization**: Matplotlib, Seaborn
-- **End-to-End AI Pipeline**: Data collection, preprocessing, model training, and deployment
-- **Specialties**:
-  - **Object Detection**
-  - **Image Classification**
-  - **Semantic Segmentation**
-  - **Data Automation**
-  - **Generative Adversarial Networks (GANs)**
+Im living in Seoul, South Korea. I specialize in image processing, data automation, and AI solutions for real-world challenges. My main tools are Python, TensorFlow, PyTorch, and OpenCV, and I love building models that transform data into valuable insights.
+
+Skills: Python, AI, Pytorch, TensorFlow, Computer Vision, Machine/Deep Learning
+
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Kh1606)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/azem-khusanboev-5a77722b9/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/khusanboev06/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://aaa-5uh.pages.dev/)  
+
 
 ## Projects
 
