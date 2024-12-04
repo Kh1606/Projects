@@ -1,5 +1,5 @@
 ### Air Quality Data Preprocessing and Regional Analysis for Seoul
-![alt text](https://github.com/user-attachments/assets/2a05c87e-a738-48c5-ac8b-0385ea88d068)
+![alt text](https://github.com/Kh1606/Projects/blob/main/Air%20purifier%20-%20Air%20Quality%20Data%20Preprocessing%20and%20Regional%20Analysis%20for%20Seoul/weather.gif)
 
 
 ## Project Overview
