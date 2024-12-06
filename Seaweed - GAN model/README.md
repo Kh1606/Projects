@@ -1,5 +1,12 @@
 # Seaweed Image Generation Using GANs
 ![alt text](https://github.com/Kh1606/Projects/blob/main/Seaweed%20-%20GAN%20model/gan.gif)
+
+Tools I used in this Project: ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)
 ## Project Overview
 This project focuses on generating images of seaweed using Generative Adversarial Networks (GANs). Similar to typical GAN architectures, it consists of two main components:
 
