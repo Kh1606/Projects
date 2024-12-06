@@ -1,6 +1,6 @@
 # Rice Leaf Disease Classification
 
-![alt text](https://github.com/user-attachments/assets/688376cc-8fc7-44b0-8ce4-da09fe497449)
+![alt text](https://github.com/Kh1606/Projects/blob/main/RiceLeaf-Image%20Classification/rice.gif)
 
 
 This repository contains a project for classifying diseases in rice leaves using machine learning techniques, specifically leveraging PyTorch and the ResNet18 model. The notebook walks through dataset preparation, model training, and evaluation processes.
