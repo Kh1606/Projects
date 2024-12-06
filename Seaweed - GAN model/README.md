@@ -1,14 +1,11 @@
 # Seaweed Image Generation Using GANs
-
+![alt text](https://github.com/Kh1606/Projects/blob/main/Seaweed%20-%20GAN%20model/gan.gif)
 ## Project Overview
 This project focuses on generating images of seaweed using Generative Adversarial Networks (GANs). Similar to typical GAN architectures, it consists of two main components:
 
 - **Generator**: Creates synthetic seaweed images from random noise.
 - **Discriminator**: Distinguishes between real seaweed images and those created by the generator.
-
-![alt text](https://github.com/Kh1606/Projects/blob/main/Seaweed%20-%20GAN%20model/gan.gif)
-
-
+- 
 ## Key Parts of the Code
 
 ### Imports and Setup
