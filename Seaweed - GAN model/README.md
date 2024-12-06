@@ -6,7 +6,7 @@ This project focuses on generating images of seaweed using Generative Adversaria
 - **Generator**: Creates synthetic seaweed images from random noise.
 - **Discriminator**: Distinguishes between real seaweed images and those created by the generator.
 
-![alt text](https://github.com/user-attachments/assets/f0579093-e0bf-4c15-9956-2aba79e35410)
+![alt text](https://github.com/Kh1606/Projects/blob/main/Seaweed%20-%20GAN%20model/gan.gif)
 
 
 ## Key Parts of the Code
