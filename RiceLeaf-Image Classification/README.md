@@ -52,4 +52,5 @@ device = "cuda" if torch.cuda.is_available() else "cpu"
 epochs = 10
 model.to(device)
 ```
+![alt text](https://github.com/Kh1606/Projects/blob/main/RiceLeaf-Image%20Classification/linegraph.gif)
 Result you can check on my .ipynb file. It has quite high accuracy level and loss level is low.
