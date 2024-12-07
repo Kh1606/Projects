@@ -1,17 +1,6 @@
-### Hi there 👋, Hello! Im Alex
-#### AI developer, Machine/Deep Learning
+
 ![AI developer, Machine/Deep Learning](https://github.com/Kh1606/Projects/blob/main/projects.gif)
-
-Im living in Seoul, South Korea. I specialize in image processing, data automation, and AI solutions for real-world challenges. My main tools are Python, TensorFlow, PyTorch, and OpenCV, and I love building models that transform data into valuable insights.
-
-Skills: Python, AI, Pytorch, TensorFlow, Computer Vision, Machine/Deep Learning
-
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Kh1606)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/azem-khusanboev-5a77722b9/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/khusanboev06/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://aaa-5uh.pages.dev/)  
-
-
-
+##Below you can check What projects I did and what tools I used.
 
 ## Projects
 
@@ -40,9 +29,4 @@ Skills: Python, AI, Pytorch, TensorFlow, Computer Vision, Machine/Deep Learning
 - **Technologies**: OpenCV, pandas
 - **Outcome**: Enhanced available dataset for defect detection, improving quality control.
 
-#This is not all my projects, I will add them soon
-
-## Contact
-Feel free to connect with me for collaboration or questions about my projects!
-- **Email**: azimjon1606@gmail.com
-- **Number**: 010-5540-1606
+###This is not all my projects, I will add them soon
