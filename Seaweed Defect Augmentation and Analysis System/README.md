@@ -80,4 +80,3 @@ The main goal of this project is to create and process images with different typ
 ## Acknowledgments
 - The deep learning and computer vision community for the tools and libraries that facilitated this project.
 
-1
