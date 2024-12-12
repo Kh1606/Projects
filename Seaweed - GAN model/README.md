@@ -83,4 +83,4 @@ The project aims to generate realistic seaweed images. Check the saved images pe
 - TensorFlow for providing the framework for building GANs.
 - The deep learning community for sharing knowledge on GANs and model-building techniques.
 
----
+--
