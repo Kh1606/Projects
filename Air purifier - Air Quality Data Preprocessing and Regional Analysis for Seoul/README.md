@@ -2,7 +2,6 @@
 ![alt text](https://github.com/Kh1606/Projects/blob/main/Air%20purifier%20-%20Air%20Quality%20Data%20Preprocessing%20and%20Regional%20Analysis%20for%20Seoul/q.gif)
 
 
-
 ## Project Overview
 This project aims to handle and preprocess CSV files containing air quality data from Seoul, specifically focusing on:
 
