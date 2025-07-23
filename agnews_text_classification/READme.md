@@ -11,7 +11,7 @@ Fine‑tuning **BERT** on the AG News dataset with a simple, reproducible workf
 ---
 
 ## 📂 Project structure
-
+```
 text-classification/
 ├─ data/ # CSVs (created in step 1)
 │ ├─ train.csv
@@ -28,7 +28,7 @@ text-classification/
 ├─ evaluation.py
 ├─ requirements.txt
 └─ README.md
-
+```
 
 Overall metrics
 Accuracy  : 0.9430
