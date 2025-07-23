@@ -1,0 +1,4 @@
+Parameters: 192534240
+Model size (MB): 734.49
+Inference time (s): 15.69
+Samples/sec: 484.24
